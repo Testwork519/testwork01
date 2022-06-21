@@ -1,29 +1,70 @@
 # testwork01
 for testwork519
-<div id="cc-inner" class="cc-content-parent">
-  <!-- _main.sass -->
-  <input type="checkbox" id="jtpl-navigation__checkbox" class="jtpl-navigation__checkbox"/><div class="jtpl-main cc-content-parent">
+<!DOCTYPE html>
+<html lang="en-US"><head>
+    <meta charset="utf-8"/>
+    <meta name="fragment" content="!"/>
+<script>
+//<![CDATA[
+setTimeout(function () {(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MTHKCKN');}, 10000);
+// ]]>
+</script><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="apple-itunes-app" content="app-id=588950703"/><title>Shop - testwork519</title><link rel="shortcut icon" href="https://assets.jimstatic.com/s/img/favicon.ico"/>
+<style type="text/css" media="all">
+/*<![CDATA[*/
+ html, body { margin: 0; padding: 0; width: 100%; height: 100%; } .cms { border: none; width: 100%; height: 100%; background: transparent; } .cc-sm-content-wrapper { position: fixed; top: 0; bottom: 0; left: 0; right: 0; } .cc-sm-iframe-wrapper { position: absolute; top: 0; bottom: 0; left: 0; right: 0; } 
+/*]]>*/
+</style><link href="https://assets2.jimstatic.com/wrapper.css.3add83ea13c9bdbe81f3d95d0140bcf3.css" media="all" rel="stylesheet" type="text/css"/><script type="text/javascript">
+window.fbAsyncInit = function () {
+FB.init({
+appId: '1967266433495057',
+autoLogAppEvents: true,
+xfbml: true,
+version: 'v2.9'
+});
+};
+(function (d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {
+    return;
+  }
+  js = d.createElement(s);
+  js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.boost.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>    <link rel="stylesheet" type="text/css" jd-fontselect-current-href=""/>
+</head>
+<body>
+    <div class="cc-sm-content-wrapper" ng-class="{'wunderbar-visible': wunderbarVisible()}" ng-controller="jimdo.ContentWrapperCtrl as contentWrapperCtrl">
+        
+        <div class="cc-sm-layout-wrapper cc-sm-scroll-independent">
+            <div jimdo-route-if="'wunderbarRoute'">
+                <div wunderbar=""></div>
+            </div>
 
-    <!-- _background-area.sass -->
-    <div class="jtpl-background-area" background-area="fullscreen"></div>
-    <!-- END _background-area.sass -->
-
-    <!-- _header.sass -->
-    <header class="jtpl-header" background-area="stripe" background-area-default=""><div class="jtpl-topbar">
-
-        <!-- _navigation.sass -->
-        <nav class="jtpl-navigation navigation-colors navigation-alignment" data-dropdown="true"><div data-container="navigation"><div class="j-nav-variant-nested"><ul class="cc-nav-level-0 j-nav-level-0"><li id="cc-nav-view-2417488549" class="jmd-nav__list-item-0"><a href="/" data-link-title="Home">Home</a></li><li id="cc-nav-view-2417488649" class="jmd-nav__list-item-0 cc-nav-current j-nav-current jmd-nav__item--current"><a href="/shop/" data-link-title="Shop" class="cc-nav-current j-nav-current jmd-nav__link--current">Shop</a></li><li id="cc-nav-view-2417488749" class="jmd-nav__list-item-0"><a href="/contact/" data-link-title="Contact">Contact</a></li></ul></div></div>
-        </nav><!-- END _navigation.sass --><!-- _mobile-navigation.sass --><label for="jtpl-navigation__checkbox" class="jtpl-navigation__label navigation-colors__menu-icon">
-          <span class="jtpl-navigation__borders navigation-colors__menu-icon"></span>
-        </label>
-        <nav class="jtpl-mobile-navigation navigation-colors navigation-colors--transparency"><div data-container="navigation"><div class="j-nav-variant-nested"><ul class="cc-nav-level-0 j-nav-level-0"><li id="cc-nav-view-2417488549" class="jmd-nav__list-item-0"><a href="/" data-link-title="Home">Home</a></li><li id="cc-nav-view-2417488649" class="jmd-nav__list-item-0 cc-nav-current j-nav-current jmd-nav__item--current"><a href="/shop/" data-link-title="Shop" class="cc-nav-current j-nav-current jmd-nav__link--current">Shop</a></li><li id="cc-nav-view-2417488749" class="jmd-nav__list-item-0"><a href="/contact/" data-link-title="Contact">Contact</a></li></ul></div></div>
-        </nav><!-- END _mobile-navigation.sass --><!-- _cart.sass --><div class="jtpl-cart">
-          
         </div>
-        <!-- END _cart.sass -->
 
-      </div>
-      <div class="jtpl-header__inner">
-        <div class="jtpl-logo">
-          <div id="cc-website-logo" class="cc-single-module-element"><div id="cc-m-13186552249" class="j-module n j-imageSubtitle"><div class="cc-m-image-container"><figure class="cc-imagewrapper cc-m-image-align-3">
-<a href="https://testwork519.jimdofree.com/" target="_self"><img srcset="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/s426f204132413ae1/image/i76053c6d0e16476d/version/1654345340/image.png 320w, https://image.jimcdn.com/app/cms/image/transf/dimension=350x10000:format=png/path/s426f204132413ae1/image/i76053c6d0e16476d/version/1654345340/image.png 350w, https://image.jimcdn.com/app/cms/image/transf/none/path/s426f204132413ae1/image/i76053c6d0e16476d/version/1654345340/image.png 500w" sizes="(min-width: 350px) 350px, 100vw" id="cc-m-imagesubtitle-image-13186552249" src="https://image.jimcdn.com/app/cms/image/transf/dimension=350x10000:format=png/path/s426f204132413ae1/image/i76053c6d0e16476d/version/1654345340/image.png" alt="" class="" data-src-width="500" data-src-height="500" data-src="https://image.jimcdn.com/app/cms/image/transf/dimension=350x10000:format=png/path/s426f204132413ae1/image/i76053c6d0e16476d/version/1654345340/image.png" data-image-id="8019032849"/></a>    
+        <div class="cc-sm-scroll-independent">
+            <div class="wunderbar-switcher__wrap cc-sm ng-cloak" jimdo-switcher="" ng-if="contentWrapperCtrl.cmsLoaded()"></div>
+        </div>
+
+        <div id="siteadmin"></div>
+
+        <div id="siteadmin-notification-panel"></div>
+
+        <div id="user-accounts-migration-screen"></div>
+
+        <div id="siteadmin-share-panel"></div>
+
+        <div class="cc-sm-iframe-wrapper">
+            <div class="cc-notification-bar"></div>
+            <div id="progress" class="cc-sm-progress"></div>
+            <div ng-controller="cms.common.AlertCtrl" class="cc-bs cc-alert-container ng-cloak">
+    <alert ng-repeat="alert in alerts" type="{{alert.type}}" close="close(alert)" ng-click="dismiss(alert)" class="ng-cloak">{{alert.msg}}</alert>
+</div>
